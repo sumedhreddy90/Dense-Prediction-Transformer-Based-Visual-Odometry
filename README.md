@@ -19,7 +19,7 @@ various applications.
 In our research, we aim to address the challenge of scale recovery in monocular systems. To do so, we will leverage the depth map estimated by a deep learning technique, specifically a transformer-based network.
 
 <p align="center">
-<img src="https://github.com/Hritvik-Choudhari0411/visual-transformers-mono-odometry/blob/main/Final%20project%20results/dpt-vo.png" width="500" height="400"/>
+<img src="https://github.com/Hritvik-Choudhari0411/visual-transformers-mono-odometry/blob/main/Final%20project%20results/dpt-vo.png" width="800" height="400"/>
 </p>
 
 ## Architecture
@@ -35,7 +35,7 @@ In our research, we aim to address the challenge of scale recovery in monocular 
 
 ViT-DPT architecture
 <p align="center">
-<img src="https://github.com/Hritvik-Choudhari0411/visual-transformers-mono-odometry/blob/main/Final%20project%20results/architecture.png" width="700" height="400"/>
+<img src="https://github.com/Hritvik-Choudhari0411/visual-transformers-mono-odometry/blob/main/Final%20project%20results/architecture.png" width="800" height="300"/>
 </p>
 
 VO result plot
